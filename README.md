@@ -9,4 +9,4 @@ The project covers **architecture design, ETL workflows, analytics, and presenta
 
 ---
 
-### **DOCS: [Rogue_One](https://docs.google.com/document/d/14DDVvhrjIQhc5wCfWXeImj_4ZQB34J5x0q0HSd8XJlI/edit?tab=t.0)**
+### **DOCS: [docs](https://docs.google.com/document/d/14DDVvhrjIQhc5wCfWXeImj_4ZQB34J5x0q0HSd8XJlI/edit?tab=t.0)**
