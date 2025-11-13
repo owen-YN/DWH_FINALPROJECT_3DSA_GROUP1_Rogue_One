@@ -9,5 +9,5 @@ The project covers **architecture design, ETL workflows, analytics, and presenta
 
 ---
 
-### **DOCS: [docs](https://docs.google.com/document/d/14DDVvhrjIQhc5wCfWXeImj_4ZQB34J5x0q0HSd8XJlI/edit?tab=t.0)**
+### **INSTRUCTION: [docs](https://docs.google.com/document/d/14DDVvhrjIQhc5wCfWXeImj_4ZQB34J5x0q0HSd8XJlI/edit?tab=t.0)**
 ### **TRACKER: [sheets](https://docs.google.com/spreadsheets/d/10jkFnQvI63t_VnhDZCLoW3BSRoi_9-qe9-T2xn4Ft2I/edit?fbclid=IwY2xjawOCAlVleHRuA2FlbQIxMABicmlkETE3QkNMekplbjJadEM1Y1BMc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvYHNUlO7EXeYCggLF0I-iIBvweycbwBVLegwBdzQksUEf1OwG9YMp8VxZuD_aem_NYocduBwRDgKqnvA-_lFgA&gid=0#gid=0)**
