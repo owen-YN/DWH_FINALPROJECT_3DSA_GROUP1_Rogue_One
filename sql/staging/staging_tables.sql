@@ -36,7 +36,7 @@ CREATE TABLE IF NOT EXISTS staging_user_job (
 CREATE TABLE IF NOT EXISTS staging_user_credit_card (
     user_id TEXT,
 	name TEXT,
-    credit_card_provider TEXT,
+    credit_card_number TYPE TEXT,
 	issuing_bank TEXT
 );
 
