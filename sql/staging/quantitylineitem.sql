@@ -6,7 +6,7 @@ FROM staging_line_item_prices;
 
 
 UPDATE staging_line_item_prices
-SET quantity = SUBSTRING(quantity FROM '^[0-9]+');
+SET quantity = SUBSTRING(quantity FROM '[0-9]+');
 
 ALTER TABLE staging_line_item_prices
 ALTER COLUMN quantity TYPE INTEGER 
