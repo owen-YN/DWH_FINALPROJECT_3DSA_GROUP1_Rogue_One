@@ -1,3 +1,5 @@
+SELECT * FROM Dim_Date;
+
 CREATE TABLE IF NOT EXISTS Dim_Date (
     Date_Key SERIAL PRIMARY KEY,    
     Transaction_date DATE,                
@@ -18,5 +20,3 @@ SELECT DISTINCT
     "Month",
     "Day_Val"
 FROM staging_transactional_campaign_data;
-
-SELECT * FROM Dim_Date;
