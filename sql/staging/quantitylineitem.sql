@@ -13,3 +13,7 @@ ALTER COLUMN quantity TYPE INTEGER
 USING quantity::INTEGER;
 
 SELECT * FROM staging_line_item_prices;
+
+SELECT * FROM staging_line_item_prices 
+WHERE quantity::TEXT ~ '[^0-9]';
+-- dapat 0 rows mareturn neto
